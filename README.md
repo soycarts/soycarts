@@ -16,3 +16,4 @@ Hi, I'm Carter Crouch, passionate about building scalable systems that tangibly 
 ## Links
 
 [carter.md](https://carter.md) · [Substack](https://soycarts.substack.com) · [X](https://x.com/soycarts) · [LinkedIn](https://www.linkedin.com/in/crtrc/) · [Instagram](https://instagram.com/soycarts)
+
